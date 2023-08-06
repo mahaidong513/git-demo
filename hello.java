@@ -5,3 +5,5 @@ public class hello{
 
 
 }
+public class hello; hot-fix
+
